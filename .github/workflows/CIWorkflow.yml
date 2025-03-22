@@ -1,4 +1,4 @@
-name: buildfork
+name: CIWorkflow
 on:
   workflow_dispatch:
 jobs:
